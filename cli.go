@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/oblitum/pygments"
+	"github.com/b4b4r07/pygments"
 )
 
 const (
